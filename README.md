@@ -105,7 +105,7 @@ Skills for working with complex file formats:
   - Installation: `/plugin marketplace add obra/superpowers-marketplace`
  
 - **[mizazhaider-ceh/AgentArsenal](https://github.com/mizazhaider-ceh/AgentArsenal)** - 285 versioned, CI-gated agent skills across 29 domains with 227 sub-skills, 25 agents and 16 brains; every skill scored 0-100 by an automated harness (repo avg 96.1)
-  - Installation: `git clone https://github.com/mizazhaider-ceh/AgentArsenal.git && cd AgentArsenal  && ./install.sh`, or the v3.0.0 `.mcpb` bundle for one-click install
+  - Installation: `git clone https://github.com/mizazhaider-ceh/AgentArsenal.git && cd AgentArsenal && ./install.sh`, or the v3.0.0 `.mcpb` bundle for one-click install
 
 - **[obra/superpowers-lab](https://github.com/obra/superpowers-lab)** - Experimental skills for `Claude Code Superpowers` (see above)
   - Uses new techniques that are still being refined and tested (i.e. skills here may change over time)
